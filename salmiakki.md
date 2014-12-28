@@ -1,7 +1,7 @@
 # Salmiakki
 ## Licorice Liquor
 
-*Ingredients*
+**Ingredients**
 
 * Kossu, Vodka, Klarer or any other clear, neutral tasting liquor
 * Hot Turkish Pepper candy ("Tyrkisk Pejber" or "Turkin Pippuri")
@@ -14,11 +14,11 @@ The taste and color of the drink varies according to the type and the amount of 
 * light 10 candy per 350ml liquor
 * light 20 candy per 350ml liquor
 
-*Mixing*
+**Mixing**
 
 1. Drop candy in bottle
 2. Let the candy dissolve over night
 3. Shake
 4. Taste
 
-Speed up dissolving step by placing the bottle in dishwasher for half an hour.
+Speed up dissolving step by placing the bottle in *dishwasher* for half an hour.
