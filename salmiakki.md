@@ -3,8 +3,8 @@
 
 **Ingredients**
 
-* Kossu, Vodka, Klarer or any other clear, neutral tasting liquor
-* Hot Turkish Pepper candy ("Tyrkisk Pejber" or "Turkin Pippuri")
+* [Kossu](http://en.wikipedia.org/wiki/Koskenkorva_Viina), Vodka, Klarer or any other clear, neutral tasting liquor
+* [Hot Turkish Pepper](http://en.wikipedia.org/wiki/Tyrkisk_Peber) candy ("Tyrkisk Pejber" or "Turkin Pippuri")
 * A clean, empty bottle with an opening large enough that your candy can be dropped in
 
 Try to get a hand on the original scandinavian, hot version ("Tyrkisk Pejber" or "Turkin Pippuri" with three flames on the packaging).
@@ -12,7 +12,7 @@ Try to get a hand on the original scandinavian, hot version ("Tyrkisk Pejber" or
 The taste and color of the drink varies according to the type and the amount of candy you use.
 
 * light 10 candy per 350ml liquor
-* light 20 candy per 350ml liquor
+* dark 20 candy per 350ml liquor
 
 **Mixing**
 
